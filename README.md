@@ -67,7 +67,11 @@ Financial institutions face significant risk when approving loans. The goal of t
 - Random Forest Classifier (Baseline)
 - Tuned Random Forest (Best Model)
 
----
+https://github.com/shrushty377/Machine_learning_project_Loan_Default_prediction/blob/main/Loan_Default_ML_Project%20(2).ipynb
+
+https://github.com/shrushty377/Machine_learning_project_Loan_Default_prediction/blob/main/loan_data.csv
+
+https://github.com/shrushty377/Machine_learning_project_Loan_Default_prediction/blob/main/submission%20(1).csv
 
 
 
